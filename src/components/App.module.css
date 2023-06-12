@@ -1,0 +1,14 @@
+.appContainer {
+    padding: 30px;
+    background-color: rebeccapurple;
+    border-radius: 20px;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+.subtitle {
+    margin-bottom: 15px;
+}
+
